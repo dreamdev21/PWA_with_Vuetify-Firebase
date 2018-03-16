@@ -1,15 +1,4 @@
-# Adminify
-
-[![Join the chat at https://gitter.im/vue-adminify/Lobby](https://badges.gitter.im/vue-adminify/Lobby.svg)](https://gitter.im/vue-adminify/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-- An Admin dashboard based on [Vuetify](https://vuetifyjs.com/) .
-- Data in demo use `axios-mock-adapter`
-- Better Server API is built on [AdonisJs](http://www.adonisjs.com/) . 
-- Also welcome to [Adonis China](https://adonis-china.org/) .
-
-## Live Demo
-[http://adminify.genyii.com](http://adminify.genyii.com)
-
+![PWA and mobile hybrid app with Vue.js, Vuetify ]https://lws-abt5wcf.netdna-ssl.com/wp-content/uploads/2017/12/introduction-to-popular-vue.js-mobile-hybrid-app-frameworks.jpg
 
 ## Features
 - Vue + Vue Router + Vuex + Axios.
