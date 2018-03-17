@@ -1,4 +1,4 @@
-![PWA and mobile hybrid app with Vue.js, Vuetify ](https://www.dropbox.com/s/lxmosigqaeo4qgh/pwa.jpg?dl=0)
+![PWA and mobile hybrid app with Vue.js, Vuetify ](screenshots/pwa.jpg)
 
 ## Mobile Responsive Design
 - Vue + Vue Router + Vuex + Axios.
